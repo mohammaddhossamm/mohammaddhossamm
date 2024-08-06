@@ -1,7 +1,10 @@
 <h1 align="center">Hey 👋 What's up?</h1>
-<h3 align="center">I am Mohamed Hossam, a skilled Flutter developer with extensive experience in Dart, object-oriented programming (OOP), and Flutter. I am proficient in state management using Bloc and Cubit, clean code practices, and responsive UI design. Additionally, I have expertise in the MVVM pattern, SOLID principles, dependency injection with get_it, shared preferences, localization, Git, and GitHub. I am eager to further enhance my skills and gain more experience by developing high-quality mobile applications </h3>
+<h5 align="center">I am Mohamed Hossam, a skilled Flutter developer with extensive experience in Dart, object-oriented programming (OOP), and Flutter. I am proficient in state management using Bloc and Cubit, clean code practices, and responsive UI design. Additionally, I have expertise in the MVVM pattern, SOLID principles, dependency injection with get_it, shared preferences, localization, Git, and GitHub. I am eager to further enhance my skills and gain more experience by developing high-quality mobile applications </h5>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 - 🌱 I’m currently learning **Flluter**
+
+- 💬 Ask me about **anything**
 
 - 💬 Ask me about **anything**
 
